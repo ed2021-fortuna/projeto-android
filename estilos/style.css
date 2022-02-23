@@ -61,7 +61,7 @@ header > h1{
 }
 header > p{
     font-family: var(--fonte-padrao);
-    font-size: 1.2em;
+    font-size: 1em;
     max-width: 600px;
     padding-left: 10px;
     padding-right: 10px;
@@ -122,8 +122,8 @@ div.video > iframe{
 }
 main  h1{
     color: var(--cor05);
-    font-weight: normal;
-    font-family: var(--fonte-android);
+    font-weight:bolder;
+    font-family: var(--fonte-padrao);
     font-size: 1.5em;
     
 }
